@@ -1,0 +1,72 @@
+FUll Stack web Developer
+UI
+1)HTML
+2)CSS
+3)JS->DOM
+4)Jquery
+5)Ajax
+6)BootStrap
+7)Typescript
+8)Angular JS/Angular
+
+Server Side Tech
+1)Node JS:=Server side javascript
+2)Express JS:=
+
+
+Databases
+1)Mongo DB
+2)Fire Base
+3)MySql
+
+
+Testing Framework
+1)Mocha 
+2)Sinon
+3)Jasmine
+4)Karma
+5)Protractor
+
+
+Code Coverage Tool
+1)Istanbul
+
+Build Tools
+1)Git/Gulp
+
+Live Reload of Code
+1)Editors crated live reload
+2)live server
+
+
+Code-editors
+1)Sublime Text
+2)VS Code
+3)Brackets
+4)WebStorms
+5)Dreamweaver
+
+Code Repositories
+1)GitHub Enterprise
+2)IBM Clear Case
+3)CVS/SVN
+
+Graphs and Charts
+1)D3.js
+2)c3.js
+
+
+Optional Technologies
+1)React JS
+2)Ember JS
+3)Backbone Js
+4)Vue JS
+5)Ext JS
+
+Development Methodologies
+1)Agile
+
+
+Project/Task Update
+1)JIRA Website 
+2)Daily Standup Meeting
